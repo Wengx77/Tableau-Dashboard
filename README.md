@@ -14,5 +14,5 @@ Images extracted from Tableau Dashboard
 ### Screenshot of world GDP
 <img width="1200" alt="screen shot 2019-01-11 at 7 43 09 pm" src="https://user-images.githubusercontent.com/31809143/51066612-4585e480-15d9-11e9-9b51-2e4b19093134.png">
 
-# adding highlights 
+#### adding highlights 
 <img width="1220" alt="screen shot 2019-01-11 at 7 42 03 pm" src="https://user-images.githubusercontent.com/31809143/51066614-46b71180-15d9-11e9-945b-87a58f5d5c96.png">
